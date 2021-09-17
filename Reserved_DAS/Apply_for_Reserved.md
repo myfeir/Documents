@@ -110,3 +110,5 @@ Otherwise, we will not merge your pull requests.
 | ckbcommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|
+| tun.bit     | https://tun.bi/     |  Crypto website guide.|
+| tunbi.bit     | https://tun.bi/     |  Crypto website guide.|
